@@ -1,0 +1,5 @@
+C:\Users\pedro\OneDrive\Documentos\Projects\learning-bi\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dacpac
+C:\Users\pedro\OneDrive\Documentos\Projects\learning-bi\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dll
+C:\Users\pedro\OneDrive\Documentos\Projects\learning-bi\DatawarehouseSucos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.pdb
+C:\Users\pedro\OneDrive\Documentos\Projects\learning-bi\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.dll
+C:\Users\pedro\OneDrive\Documentos\Projects\learning-bi\DatawarehouseSucos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.pdb
